@@ -10,7 +10,10 @@
 		'13:46'
 	];
 
-	input_data.forEach((t) => { talkify(t);});
+	input_data.forEach((input) => {
+		const output = talkify(input);
+		console.log(`${input} - ${output}`);
+	});
 
 	function talkify(time) {
 		const numbers = ['oh ', 'one ', 'two ', 'three ', 'four ', 'five ', 'six ', 'seven ', 'eight ', 'nine ', 'ten ',
@@ -26,7 +29,7 @@
 		const minute = convertNumber(minuteNbr, true);
 
 		
-		console.log(`${time} - It's ${hour}${minute}${period}`);
+		return `It's ${hour}${minute}${period}`;
 
 		function convertNumber(number, isHour) {
 			if(!number){
