@@ -111,6 +111,9 @@
 
     function exponent(a, b) {
         let result = 1;
+        if( b < -1){
+            result = 'Non-integral answer';
+        }
         for (let i = 0; i < b; i++) {
             result = multiply(result, a);
         }
