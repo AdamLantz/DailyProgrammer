@@ -12,15 +12,15 @@
 
 	function processLine(line){
 		const split = line.split(/\s{2,}/);
-		addToMessage(split[0], split[1], parseInt(split[2]), split[3] || '');
+		addToMessage(split[0], split[1], parseInt(split[2]), line);
 	}
 
-	function addToMessage(messageId, packetID, packetCount, text){
+	function addToMessage(messageId, packetID, packetCount, rawPacket){
 		if(typeof messages[messageId] === 'undefined'){
 			messages[messageId] = { id:messageId, handled: 0, packets: {} };
 		}
 		let thisMessage = messages[messageId];
-		thisMessage.packets[packetID] = text;
+		thisMessage.packets[packetID] = rawPacket;
 		thisMessage.handled++;
 		checkCompletedMessage(thisMessage, packetCount);
 	}
