@@ -3,8 +3,8 @@
 A collection of small code challenges I've completed to practice and improve on my programming skills.
 
 
-| Challenges | Description |
-|------------|-------------|
+| Challenge | Description |
+|:---------:|:------------|
 |[Adding Calculator](adding-calculator/)| A calculator capable of addition, subtraction, multiplication, division, and exponentiation written using only the addition operator.|
 |[Check Writer](check-writer/)| Converts any given dollar amount into its long written form (i.e. as it would be written on a check). |
 |[Condensing Sentences](condensing-sentences/)| Finds and condenses letters shared by consecutive words in a sentence. |
