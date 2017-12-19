@@ -22,7 +22,7 @@
 				seen[chars[i]] = {index: i};
 			}
 		}
-		return 'No recurring letters found';
+		return 'No reoccurring letters found';
 	}
 
 })();

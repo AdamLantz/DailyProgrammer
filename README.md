@@ -15,4 +15,4 @@ A collection of small code challenges I've completed to practice and improve on 
 |[Talking Clock](talking-clock/)| Converts a numeric, 24-hr time into a spoken 12-hr time.|
 |[Water Bucket Riddle](water-bucket-riddle/)| Solution to the 3-liter, 5-liter bucket problem where you need 4-liters but can't measure. Implemented to solve given two buckets of any size and any target amount.|
 |[Anagram Detector](anagram-detector/)| Compares two strings to determine if they are anagrams of eachother.|
-|[First Recurring Letter](first-recurring-letter/)| Finds and prints the first character to occur twice within a string.|
+|[First Reoccurring Letter](first-reoccurring-letter/)| Finds and prints the first character to occur twice within a string.|
