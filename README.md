@@ -16,3 +16,4 @@ A collection of small code challenges I've completed to practice and improve on 
 |[Water Bucket Riddle](water-bucket-riddle/)| Solution to the 3-liter, 5-liter bucket problem where you need 4-liters but can't measure. Implemented to solve given two buckets of any size and any target amount.|
 |[Anagram Detector](anagram-detector/)| Compares two strings to determine if they are anagrams of eachother.|
 |[First Reoccurring Letter](first-reoccurring-letter/)| Finds and prints the first character to occur twice within a string.|
+|[intHarmony.com](int-harmony/)| Analyzes matches between integers on 32 levels of compatibility. Includes an extra code-golf'd solution. |
