@@ -1,0 +1,11 @@
+{
+  "name": "first-reoccurring-letter",
+  "version": "1.0.0",
+  "dependencies": {},
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "devDependencies": {
+    "jest": "22.0.4"
+  }
+}
