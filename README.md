@@ -6,7 +6,8 @@ A collection of small code challenges I've completed to practice and improve on 
 | Challenge | Description |
 |:---------:|:------------|
 |[Adding Calculator](adding-calculator/)| A calculator capable of addition, subtraction, multiplication, division, and exponentiation written using only the addition operator.|
-|[Anagram Detector](anagram-detector/)| Compares two strings to determine if they are anagrams of eachother.|
+|[Alphabet Cipher](alphabet-cipher/)| A simple cipher using a secret word to shift characters in a message.|
+|[Anagram Detector](anagram-detector/)| Compares two strings to determine if they are anagrams of each other.|
 |[Check Writer](check-writer/)| Converts any given dollar amount into its long written form (i.e. as it would be written on a check). |
 |[Condensing Sentences](condensing-sentences/)| Finds and condenses letters shared by consecutive words in a sentence. |
 |[Everest Training](everest-training/)| Finds the largest number of increasing peaks in a single direction. To help you train for Mt. Everest of course. |
