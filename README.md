@@ -20,3 +20,4 @@ A collection of small code challenges I've completed to practice and improve on 
 |[Talking Clock](talking-clock/)| Converts a numeric, 24-hr time into a spoken 12-hr time.|
 |[UPC Check Digits](upc-check-digits)|Given the first 11 digits of a UPC code, this will determine the 12th digit.|
 |[Water Bucket Riddle](water-bucket-riddle/)| Solution to the 3-liter, 5-liter bucket problem where you need 4-liters but can't measure. Implemented to solve given two buckets of any size and any target amount.|
+|[Word Funnel](word-funnel/)| Determines if a word can be made by dropping a letter from another word. Also lists all possible words created in this manner based on `enable1.txt`. |
