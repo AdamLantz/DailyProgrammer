@@ -18,4 +18,5 @@ A collection of small code challenges I've completed to practice and improve on 
 |[Nearest Prime Number](nearest-prime-numbers/)| Finds the nearest prime numbers above and below a given number. |
 |[Packet Assembler](packet-assembler/)| Reads out-of-order lines in and reassemble them into proper order.|
 |[Talking Clock](talking-clock/)| Converts a numeric, 24-hr time into a spoken 12-hr time.|
+|[UPC Check Digits](upc-check-digits)|Given the first 11 digits of a UPC code, this will determine the 12th digit.|
 |[Water Bucket Riddle](water-bucket-riddle/)| Solution to the 3-liter, 5-liter bucket problem where you need 4-liters but can't measure. Implemented to solve given two buckets of any size and any target amount.|
