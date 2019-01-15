@@ -17,6 +17,7 @@ A collection of small code challenges I've completed to practice and improve on 
 |[Latin Squares](latin-squares/)|Determines if a given grid is a latin square. Similar to a limited version of a Sudoku solution checker.|
 |[Nearest Prime Number](nearest-prime-numbers/)| Finds the nearest prime numbers above and below a given number. |
 |[Packet Assembler](packet-assembler/)| Reads out-of-order lines in and reassemble them into proper order.|
+|[Perfectly Balanced](perfectly-balanced/)|Determines whether a string contains an equal number of characters.|
 |[Talking Clock](talking-clock/)| Converts a numeric, 24-hr time into a spoken 12-hr time.|
 |[Tally](tally/)| Tallies up scores from a written format and lists players in order by score.|
 |[UPC Check Digits](upc-check-digits)|Given the first 11 digits of a UPC code, this will determine the 12th digit.|
